@@ -1,4 +1,4 @@
-package main.java.list.OperacoesBasicas;
+package LIST.operaçõesBasicas;
 
 public class Tarefa {
     //atributo
@@ -12,4 +12,5 @@ public class Tarefa {
     public String getTafera() {
         return descricao;
     }
+
 }
